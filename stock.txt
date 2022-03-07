@@ -1,0 +1,10 @@
+Harry Potter,Jk Rowling,11,$2.0
+Start With Why,Simon Sinek,12,$1.5
+Small Favours,Erin A. Craig,18,$1.5
+The Alchemist,Paulo Coelho,15,$1.9
+Well Met,Jen DeLuca,10,$1.4
+The Arrangement,Robyn Harding,10,$1.6
+Time's Divide,Rysa Walker,0,$1.5
+The Maid,Nita Prose,14,$1.6
+The Novice,Taran Matharu,20,$1.6
+Paper Valentine,Brenna Yovanoff,16,$2.0
